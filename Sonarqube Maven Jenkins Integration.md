@@ -88,4 +88,6 @@ Follow the procedure outlined [here](https://github.com/siddeshpm1/Jenkins/blob/
     ```
     Jenkinsfile
     ```
-  - Execute the Job.
+  - **Execute the Job**
+
+  - **Check the Sonarqube Dashboard for the Analysis after the pipeline Execution**
